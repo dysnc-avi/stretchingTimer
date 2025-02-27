@@ -10,7 +10,7 @@
     <h2>Stretch Timer</h1>
     <form id="set">
       <label for="dropdown">Select Time (seconds):</label>
-      <select name="options" id="dropdown">
+      <select name="sOptions" id="dropdown" required>
         <option value="10">10</option>
         <option value="20">20</option>
         <option value="30">30</option>
@@ -18,7 +18,7 @@
         <option value="120">120</option>
       </select>
       <label for="exercises">Select no. of exercises: </label>
-      <select name="options" id="dropdown">
+      <select name="eOptions" id="dropdown" required>
         <option value="3">3</option>
         <option value="5">5</option>
         <option value="10">10</option>
@@ -26,6 +26,7 @@
       </select>
       <button type="submit" id="start">Start</button>
     </form>
+    <center><h1 class="word">GO</h1></center>
     <script src="script.js"></script>
   </body>
 </html>
