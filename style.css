@@ -1,0 +1,21 @@
+body {
+  width: fit-content;
+
+  height: 100%;
+  width: 80%;
+}
+
+#set {
+  display: flex;
+  padding: 5px;
+  flex-direction: column;
+}
+
+#set select {
+  padding: 5px;
+}
+
+#start {
+  margin-top: 10px;
+  padding: 2px;
+}
