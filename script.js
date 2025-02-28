@@ -2,12 +2,14 @@ let word = document.querySelector(".word");
 let isGreen = false;
 let form = document.querySelector("#set");
 let h1 = document.querySelector(".mainHeading");
+let h2 = document.querySelector(".mainHeading2");
 let body = document.body;
 
 function startTimer(seconds, interval) {
   let count = 0;
   form.style.visibility = "hidden";
   h1.style.visibility = "hidden";
+  h2.style.visibility = "hidden";
   function changeToGreen() {
     if (count >= interval) return;
     if (count == interval - 1) {
