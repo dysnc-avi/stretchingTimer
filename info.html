@@ -93,7 +93,7 @@
       let img = document.createElement("img");
       let heading = document.createElement("h2");
       heading.innerHTML = exercise.name;
-      img.src = exercise.image;
+      img.src = `https://raw.githubusercontent.com/dsync-avi/stretchingTimer/main/${exercise.image}`;
       img.width = 350;
       div.append(heading);
       div.append(img);
