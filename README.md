@@ -8,7 +8,7 @@ Do you spend hours sitting at your desk? This Stretching Timer is designed to he
 ## How to use
 
 ### 1. Add duration of each stretch
-![Duration Per Exercise](https://raw.githubusercontent.com/dsync-avi/stretchingTimer/main/public/howToUse/timePerE.png)
+![Duration Per Exercise](/public/howToUse/timePerE.png)
 
 ### 2. Add no. of exercises
 ![No. of Exercise](https://raw.githubusercontent.com/dsync-avi/stretchingTimer/main/public/howToUse/noOfE.png)
