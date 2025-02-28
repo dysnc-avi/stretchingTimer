@@ -11,13 +11,13 @@ Do you spend hours sitting at your desk? This Stretching Timer is designed to he
 ![Duration Per Exercise](/public/howToUse/timePerE.png)
 
 ### 2. Add no. of exercises
-![No. of Exercise](https://raw.githubusercontent.com/dsync-avi/stretchingTimer/main/public/howToUse/noOfE.png)
+![No. of Exercise](/public/howToUse/noOfE.png)
 
 ### 3. Let the timer run!
-![Result](https://raw.githubusercontent.com/dsync-avi/stretchingTimer/main/public/howToUse/result.gif)
+![Result](/public/howToUse/result.gif)
 
 #### Note: Timer will notify you once your last bit of stretch comes
-![Last](https://raw.githubusercontent.com/dsync-avi/stretchingTimer/main/public/howToUse/last.png)
+![Last](/public/howToUse/last.png)
 
 #### Authors
 
