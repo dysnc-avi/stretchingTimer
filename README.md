@@ -8,16 +8,16 @@ Do you spend hours sitting at your desk? This Stretching Timer is designed to he
 ## How to use
 
 ### 1. Add duration of each stretch
-![Duration Per Exercise](/public/howToUse/timePerE.png)
+![Duration Per Exercise](/assets/howToUse/timePerE.png)
 
 ### 2. Add no. of exercises
-![No. of Exercise](/public/howToUse/noOfE.png)
+![No. of Exercise](/assets/howToUse/noOfE.png)
 
 ### 3. Let the timer run!
-![Result](/public/howToUse/result.gif)
+![Result](/assets/howToUse/result.gif)
 
 #### Note: Timer will notify you once your last bit of stretch comes
-![Last](/public/howToUse/last.png)
+![Last](/assets/howToUse/last.png)
 
 #### Authors
 
